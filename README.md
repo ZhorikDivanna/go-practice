@@ -1,2 +1,8 @@
-# go-practice
-Решения задач на Go: алгоритмы, структуры данных и практика языка.
+# Go Practice
+
+Учебные задачи и проекты на Go.
+
+## Проекты
+
+- [ToDo REST API](projects/todo-api/README.md) — управление задачами:
+  PostgreSQL, миграции, логирование, Docker Compose и завершение по SIGTERM.
