@@ -1,0 +1,14 @@
+.git
+.env
+.env.*
+!.env.example
+
+*.exe
+*.test
+*.out
+*.log
+
+bin/
+out/
+.idea/
+.vscode/
