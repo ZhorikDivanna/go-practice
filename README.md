@@ -10,4 +10,4 @@
 - [SQL Library](projects/sql-library/README.md) - практика SQL и постраничного чтения данных из PostgreSQL на Go.
 
 - [Employee API](projects/employee-api/README.md) — создание, просмотр и удаление сотрудников. Go, PostgreSQL, Docker Compose.
-- 
+
