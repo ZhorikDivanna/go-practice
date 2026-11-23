@@ -11,3 +11,4 @@
 
 - [Employee API](projects/employee-api/README.md) — создание, просмотр и удаление сотрудников. Go, PostgreSQL, Docker Compose.
 
+- [Miners Game API](projects/miners-game/README.md) — симулятор шахты с HTTP API на Go. Шахтёры работают в отдельных горутинах и передают добытый уголь через каналы.
